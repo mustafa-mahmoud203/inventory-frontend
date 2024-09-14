@@ -1,0 +1,12 @@
+/* Import Tailwind CSS base styles */
+@import 'tailwindcss/base';
+
+/* Import Tailwind CSS components */
+@import 'tailwindcss/components';
+
+/* Import additional custom styles */
+@import './additional-styles/utility-patterns.css';
+@import './additional-styles/flatpickr.css';
+
+/* Import Tailwind CSS utilities */
+@import 'tailwindcss/utilities';
